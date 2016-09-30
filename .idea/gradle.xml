@@ -16,17 +16,7 @@
             <option value="$PROJECT_DIR$/rxjava2" />
           </set>
         </option>
-        <option name="myModules">
-          <set>
-            <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/app" />
-            <option value="$PROJECT_DIR$/eventbus" />
-            <option value="$PROJECT_DIR$/rxandroid" />
-            <option value="$PROJECT_DIR$/rxandroid2" />
-            <option value="$PROJECT_DIR$/rxjava" />
-            <option value="$PROJECT_DIR$/rxjava2" />
-          </set>
-        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
